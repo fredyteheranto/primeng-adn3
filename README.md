@@ -1,10 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Join the chat at https://gitter.im/primefaces/primeng](https://badges.gitter.im/primefaces/primeng.svg)](https://gitter.im/primefaces/primeng?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# PrimeNG
+# PrimeNG ADN 3.0
 
-UI Components for Angular
+UI Componentes para Angular2 Version desatendida 
 
-See [PrimeNG homepage](http://www.primefaces.org/primeng) for live showcase and documentation.
+Ver [PrimeNG homepage](http://www.primefaces.org/primeng) Documentacion oficial
 
-![alt text](https://www.primefaces.org/primeng/assets/showcase/images/primeng-sidebar.svg "PrimeNG")
+Ver [PrimeNG 3.0 Adnerp](http://www.primefaces.org/primeng)
+
+![alt text](https://www.primefaces.org/primeng/assets/showcase/images/primeng-sidebar.svg "PrimeNG ADN 3.0")
