@@ -1,6 +1,6 @@
 {
-  "name": "primeng-adn",
-  "version": "5.0.3-SNAPSHOT",
+  "name": "primeng-adn3",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
