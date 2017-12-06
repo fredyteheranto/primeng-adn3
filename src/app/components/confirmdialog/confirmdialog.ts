@@ -236,7 +236,7 @@ export class ConfirmDialog implements AfterViewInit,AfterViewChecked,OnDestroy {
                 switch (event.which) {
                     case 27:
                       if(this.el.nativeElement.children[0].style.zIndex == DomHandler.zindex && this.visible) {
-                        this.close(event);
+                            this.close(event);
                         }
                         break;
                     case 83:
